@@ -1,0 +1,14 @@
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\bin\Debug\Clínica Médica Viva Bem - ATP.exe.config
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\bin\Debug\Clínica Médica Viva Bem - ATP.exe
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\bin\Debug\Clínica Médica Viva Bem - ATP.pdb
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.csprojAssemblyReference.cache
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.csproj.CoreCompileInputs.cache
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.exe
+C:\Users\1137698\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.pdb
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\bin\Debug\Clínica Médica Viva Bem - ATP.exe.config
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\bin\Debug\Clínica Médica Viva Bem - ATP.exe
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\bin\Debug\Clínica Médica Viva Bem - ATP.pdb
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.exe
+C:\Users\Richard\Desktop\Clínica Médica Viva Bem - ATP\Clínica Médica Viva Bem - ATP\obj\Debug\Clínica Médica Viva Bem - ATP.pdb
